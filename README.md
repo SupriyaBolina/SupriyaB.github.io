@@ -56,6 +56,7 @@
                 <p>
                 Chanel Flap Bag <a href="https://dearluxe.com/blogs/fashion/chanel-classic-flap-bag-size-guide">Caviar Leather</a>
                 Lady <a href="https://crfashionbook.com/history-of-the-lady-dior-bag-princess-diana/">Dior</a>
-                
+                <img src="pic_trulli.jpg" alt="Italian Trulli">
+                <img src="img_chania.jpg" alt="Flowers in Chania">
 
  
