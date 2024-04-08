@@ -48,7 +48,14 @@
                 <h2>Education</h2>
                 <p>
                   After completion of my bachelors degree in April of 2024, I am undergoing a certification in Management Essentials through Harvard Business School Online. Through the combination of my education and continuous work experience I hope prepares me and qualifies me to obtain the position I am working towards. 
-
-
+ </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+              <tr>
+              <td style="padding:20px;width:100%;vertical-align:middle">
+                <h2>My favourite luxury Goods</h2>
+                <p>
+                Chanel Flap Bag <a href="https://dearluxe.com/blogs/fashion/chanel-classic-flap-bag-size-guide">Caviar Leather</a>
+                Lady <a href="https://crfashionbook.com/history-of-the-lady-dior-bag-princess-diana/">Dior</a>
+                
 
  
